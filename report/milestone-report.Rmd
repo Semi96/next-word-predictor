@@ -1,8 +1,6 @@
 ---
 title: Data Science Capstone Project
 subtitle: Milestone Report
-author: Benedict Neo Yao En
-date: 28-06-2021
 output:
   html_document:
    toc: true
